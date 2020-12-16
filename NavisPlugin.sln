@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavisPlugin", "NavisPlugin\NavisPlugin.csproj", "{76DF6F5D-6F1F-49DA-B66A-9948668C498C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula02", "Aula02\Aula02.csproj", "{72177CFE-F686-431B-8C09-1BEDF4DF0614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76DF6F5D-6F1F-49DA-B66A-9948668C498C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DF6F5D-6F1F-49DA-B66A-9948668C498C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DF6F5D-6F1F-49DA-B66A-9948668C498C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72177CFE-F686-431B-8C09-1BEDF4DF0614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72177CFE-F686-431B-8C09-1BEDF4DF0614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72177CFE-F686-431B-8C09-1BEDF4DF0614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72177CFE-F686-431B-8C09-1BEDF4DF0614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
