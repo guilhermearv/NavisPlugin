@@ -38,7 +38,7 @@ namespace NavisPlugin
             //Define a janela do Navisworks está visivel.
             NwApp.Visible = true;
         }
-
+        
         /// <summary>
         /// Anexa modelos ao Navisworks
         /// </summary>
